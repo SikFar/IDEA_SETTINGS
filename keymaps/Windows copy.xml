@@ -17,14 +17,23 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="MethodOverloadSwitchDown" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
   <action id="ShowReformatFileDialog" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="ZoomCurrentWindow">
     <mouse-shortcut keystroke="shift button143" />
   </action>
