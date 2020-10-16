@@ -3,13 +3,18 @@
     <property name="created">2020-10-05T09:13:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-10-05T11:42:34</property>
+    <property name="modified">2020-10-16T14:14:49</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="5fe507" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TS.KEYWORD">
