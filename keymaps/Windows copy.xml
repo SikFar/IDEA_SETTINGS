@@ -10,7 +10,9 @@
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift k" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
