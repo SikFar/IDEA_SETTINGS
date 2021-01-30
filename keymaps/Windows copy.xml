@@ -9,7 +9,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt subtract" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="shift k" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ContextHelp" />
