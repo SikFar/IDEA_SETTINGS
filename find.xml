@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '...\src'" />
-    <option name="defaultScopeName" value="Directory '...\src'" />
+    <option name="customScope" value="File '...\src\app\features\mra-table\components\mra-table.component.ts'" />
+    <option name="defaultScopeName" value="File '...\src\app\features\mra-table\components\mra-table.component.ts'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\app\features\mra-table\components\mra-table.component.ts'" />
   </component>
 </application>
