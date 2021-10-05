@@ -8,15 +8,31 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="ForceOthersToFollowAction" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="OptimizeImports" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="UsageGrouping.FlattenModules" />
 </keymap>
