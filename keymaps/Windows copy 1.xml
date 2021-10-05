@@ -1,8 +1,22 @@
 <keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button5" />
   </action>
 </keymap>
