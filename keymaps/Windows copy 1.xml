@@ -2,6 +2,10 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ContextHelp" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -17,8 +21,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
-  <action id="NextTab">
+  <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="NextTab">
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="OptimizeImports" />
