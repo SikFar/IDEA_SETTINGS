@@ -2,6 +2,10 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
