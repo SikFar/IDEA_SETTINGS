@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="alert" type="AUTO_DETECTED" />
       <mapping pattern="SharedSubscriptionsPayload" type="AUTO_DETECTED" />
-      <removed_mapping ext="app" type="Erlang/OTP app" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
