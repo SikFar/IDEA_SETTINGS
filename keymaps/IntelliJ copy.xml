@@ -1,6 +1,12 @@
 <keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ContextHelp" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
