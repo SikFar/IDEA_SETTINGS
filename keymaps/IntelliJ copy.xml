@@ -6,7 +6,11 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ContextHelp" />
+  <action id="NextTab" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
 </keymap>
