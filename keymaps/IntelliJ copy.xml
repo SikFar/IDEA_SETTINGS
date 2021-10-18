@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ContextHelp" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
