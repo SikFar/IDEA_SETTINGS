@@ -1,5 +1,17 @@
 <application>
   <component name="DuplicatesDetector">
+    <entry key="JavaScript">
+      <language>
+        <option name="anonymizeFunctions" value="true" />
+        <option name="anonymizeLiterals" value="true" />
+      </language>
+    </entry>
+    <entry key="Kotlin">
+      <language>
+        <option name="anonymizeFunctions" value="true" />
+        <option name="anonymizeLiterals" value="true" />
+      </language>
+    </entry>
     <entry key="TypeScript">
       <language>
         <option name="anonymizeFunctions" value="true" />
