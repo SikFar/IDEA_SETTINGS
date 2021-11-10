@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ContextHelp" />
+  <action id="EditorSelectWord" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="ForceOthersToFollowAction" />
   <action id="GotoFile">
@@ -12,4 +13,8 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="SmartSelect" />
 </keymap>
