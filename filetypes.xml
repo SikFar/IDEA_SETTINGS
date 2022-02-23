@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="networkbranding" type="JSON" />
       <mapping pattern="Select" type="TypeScript JSX" />
+      <mapping ext="networkbranding" type="XML" />
       <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
