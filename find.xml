@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\src\Rikstoto.Toto\@libs\ui\molecules\paa-lag-navigation-bar\paa-lag-navigation-bar.component.html'" />
+    <option name="defaultScopeName" value="File '…\src\Rikstoto.Toto\@libs\ui\molecules\paa-lag-navigation-bar\paa-lag-navigation-bar.component.html'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\Rikstoto.Toto\@libs\ui\molecules\paa-lag-navigation-bar\paa-lag-navigation-bar.component.html'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
