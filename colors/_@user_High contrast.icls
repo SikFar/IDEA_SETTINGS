@@ -3,7 +3,7 @@
     <property name="created">2021-11-26T14:36:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-03-31T14:17:00</property>
+    <property name="modified">2022-04-11T13:01:22</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -225,11 +225,22 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="ece111" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="aaff" />
         <option name="EFFECT_COLOR" value="589df6" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -498,7 +509,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f5d52d" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -563,7 +574,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
