@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\src\Rikstoto.Toto\@libs\features\paa-lag\shared\page-section-header-team\page-section-header-team.component.html'" />
-    <option name="defaultScopeName" value="File '…\src\Rikstoto.Toto\@libs\features\paa-lag\shared\page-section-header-team\page-section-header-team.component.html'" />
-    <option name="SEARCH_SCOPE" value="File '…\src\Rikstoto.Toto\@libs\features\paa-lag\shared\page-section-header-team\page-section-header-team.component.html'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
