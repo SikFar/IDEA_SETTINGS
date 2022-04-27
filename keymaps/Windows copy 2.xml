@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ContextHelp" />
+  <action id="CopyPaths" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
