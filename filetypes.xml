@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Select" type="TypeScript JSX" />
       <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <removed_mapping ext="config" approved="true" type="XML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="networkbranding" approved="true" type="JSON" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
