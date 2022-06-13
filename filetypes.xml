@@ -10,6 +10,7 @@
       <removed_mapping ext="networkbranding" approved="true" type="JSON" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
