@@ -1,5 +1,7 @@
 <application>
   <component name="RNSettings">
+    <option name="androidStudioPath" value="C:\Program Files\Android\Android Studio" />
     <option name="version" value="2022.2.3" />
+    <option name="xcodePath" value="" />
   </component>
 </application>
