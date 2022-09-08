@@ -9,7 +9,7 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaScriptUsages" />
+    <option name="lastViewedProviderKeyId" value="Markdown.MarkdownTableInlayProviderSettingsKey" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
