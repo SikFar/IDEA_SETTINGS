@@ -1,10 +1,14 @@
 <code_scheme name="Default" version="173">
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_PUBLIC_MODIFIER" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
