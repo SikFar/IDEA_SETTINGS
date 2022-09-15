@@ -6,6 +6,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="InlayHintsSettings">
