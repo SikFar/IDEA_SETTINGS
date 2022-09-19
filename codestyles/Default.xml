@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="DO_NOT_FORMAT">
     <list>
       <fileSet type="globPattern" pattern="*.html" />
@@ -13,14 +14,13 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
