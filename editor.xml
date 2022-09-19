@@ -4,6 +4,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="false" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />

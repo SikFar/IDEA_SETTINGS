@@ -1,10 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="DO_NOT_FORMAT">
-    <list>
-      <fileSet type="globPattern" pattern="*.html" />
-    </list>
-  </option>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
+  </HTMLCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_PUBLIC_MODIFIER" value="true" />
@@ -14,6 +12,8 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -23,6 +23,8 @@
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
