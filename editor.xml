@@ -1,15 +1,17 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="SMART_BACKSPACE" value="2" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="false" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+    <option name="lastViewedProviderKeyId" value="JavaScriptUsages" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
