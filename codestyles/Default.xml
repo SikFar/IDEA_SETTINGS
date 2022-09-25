@@ -10,6 +10,7 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="INDENT_CHAINED_CALLS" value="false" />
   </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -23,7 +24,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
@@ -39,7 +39,6 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
